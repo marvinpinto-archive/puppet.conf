@@ -7,4 +7,4 @@ mod 'puppetlabs-stdlib',
   :git => "https://github.com/puppetlabs/puppetlabs-stdlib.git"
 
 mod 'puppetlabs-firewall',
-  :git => "git@github.com:puppetlabs/puppetlabs-firewall.git"
+  :git => "https://github.com/puppetlabs/puppetlabs-firewall.git"
