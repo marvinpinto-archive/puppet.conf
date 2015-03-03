@@ -3,7 +3,7 @@
   - yaml
 
 :yaml:
-  :datadir: /opt/puppet-hiera
+  :datadir: /opt/puppet-hiera/hieradata
 
 :hierarchy:
   - nodes/%{::clientcert}
