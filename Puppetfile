@@ -23,3 +23,6 @@ mod 'puppetlabs-ntp',
 
 mod 'planthrop-supervisor',
   :git => "https://github.com/plathrop/puppet-module-supervisor.git"
+
+mod 'puppet-timezone',
+  :git => "https://github.com/saz/puppet-timezone.git"
