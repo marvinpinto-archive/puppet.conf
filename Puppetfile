@@ -20,3 +20,6 @@ mod 'puppetlabs-concat',
 
 mod 'puppetlabs-ntp',
   :git => "https://github.com/puppetlabs/puppetlabs-ntp.git"
+
+mod 'planthrop-supervisor',
+  :git => "https://github.com/plathrop/puppet-module-supervisor.git"
