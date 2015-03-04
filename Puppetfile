@@ -11,3 +11,6 @@ mod 'puppetlabs-firewall',
 
 mod 'puppet-puppetmaster',
   :git => "https://github.com/marvinpinto/puppet-puppetmaster.git"
+
+mod 'puppet-cron',
+  :git => "https://github.com/marvinpinto/puppet-cron.git"
