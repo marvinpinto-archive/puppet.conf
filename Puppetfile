@@ -10,4 +10,4 @@ mod 'puppetlabs-firewall',
   :git => "https://github.com/puppetlabs/puppetlabs-firewall.git"
 
 mod 'puppet-puppetmaster',
-  :git => "git@bitbucket.org:marvinp/puppet-puppetmaster.git"
+  :git => "https://github.com/marvinpinto/puppet-puppetmaster.git"
