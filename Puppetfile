@@ -14,3 +14,6 @@ mod 'puppet-puppetmaster',
 
 mod 'puppet-cron',
   :git => "https://github.com/marvinpinto/puppet-cron.git"
+
+mod 'puppetlabs-concat',
+  :git => "https://github.com/puppetlabs/puppetlabs-concat.git"
