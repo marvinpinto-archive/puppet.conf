@@ -17,3 +17,6 @@ mod 'puppet-cron',
 
 mod 'puppetlabs-concat',
   :git => "https://github.com/puppetlabs/puppetlabs-concat.git"
+
+mod 'puppetlabs-ntp',
+  :git => "https://github.com/puppetlabs/puppetlabs-ntp.git"
