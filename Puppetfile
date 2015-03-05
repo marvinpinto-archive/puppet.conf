@@ -26,3 +26,6 @@ mod 'planthrop-supervisor',
 
 mod 'puppet-timezone',
   :git => "https://github.com/saz/puppet-timezone.git"
+
+mod 'puppet-locale',
+  :git => "https://github.com/marvinpinto/puppet-locale.git"
